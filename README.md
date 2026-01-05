@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hi, I'm Aslan
 
-<!--
-**Ztry8/ztry8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ System programmer | 🎮 Game developer  
+I love building games and tools from the ground up — no engines, no shortcuts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+| Language   | Level   |
+|-----------|--------|
+| Rust      | ★★★★★  |
+| C         | ★★★★★  |
+| GLSL      | ★★★★☆  |
+| C++       | ★★★★☆  |
+| C#        | ★★★★☆  |
+| Python    | ★★★☆☆  |
+| JavaScript| ★★★☆☆  |
+
+**Technologies & Skills**
+- Graphics: OpenGL 3.3, DirectX 11
+- Game engines: Unity, Godot
+- Systems: Linux & macOS, CLI tools, OS fundamentals
+- Low-level: CPU, memory, threads, processes
+- Currently learning: Cryptography & blockchain development
+  
+---
+
+### 💡 Style & Fun
+- 🎨 Retro aesthetics & classic design  
+- 🎲 Randomness & procedural systems  
+- ⚡ Fast, simple, lightweight solutions  
+- 🕹 Favorite games: traditional roguelikes  
+- ☕ Fun fact: I don't drink coffee or tea
+
+---
+
+### 📫 Contact: [Twitter](https://x.com/ztry8d)
