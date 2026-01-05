@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aslan
 
-⚙️ System programmer | 🎮 Game developer  
+⚙️ System programmer | 🎮 Game developer | [itch.io](https://ztry8.itch.io)  
 I love building games and tools from the ground up — no engines, no shortcuts.
 
 ---
@@ -13,17 +13,19 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 | C — ★★★★★ | OS experience: Linux (10+ distros), macOS, Windows 7 → 11 |
 | GLSL — ★★★★☆ | Low-level: CPU, memory, threads, processes, signals |
 | C++ — ★★★★☆ | Graphics: OpenGL 3.3, DirectX 11 |
-| C# — ★★★★☆ | Game engines: Unity, Godot |
-| Python — ★★★☆☆ | Build tools: CMake, Make, Ninja, Cargo |
+| C# — ★★★★☆ | 2D rendering: SDL, SFML |
+| Python — ★★★☆☆ | Game engines: Unity, Godot |
+| HTML/CSS — ★★★☆☆ | Build tools: CMake, Make, Ninja, Cargo |
 | JavaScript — ★★★☆☆ | Currently learning: Cryptography & blockchain development |
 
 ---
 
-### 💡 Style & Fun
+### 💡 Style & Creative
 - 🎨 Retro aesthetics & classic design  
 - 🎲 Randomness & procedural systems  
 - ⚡ Fast, simple, lightweight solutions  
 - 🕹 Favorite games: traditional roguelikes  
+- ✏️ Creative: Blender 3D modeling & pixel art  
 - ☕ Fun fact: I don't drink coffee or tea
 
 ---
