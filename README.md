@@ -28,4 +28,17 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 
 ---
 
+### 🚀 Projects
+
+| Project | Description | Language(s) |
+|--------|-------------|-------------|
+| **[Termlib](https://github.com/ztry8d/Termlib)** | Lightweight Rust / C / C++ library with a single header for terminal graphics | Rust, C, C++ |
+| **[LightByte](https://github.com/ztry8d/LightByte)** | Utility to compress and encrypt game assets | Rust |
+| **[VecMate](https://github.com/ztry8d/VecMate)** | Lightweight, zero-dependency, type-agnostic vector math library | Rust |
+| **[DungeonGen](https://github.com/ztry8d/DungeonGen)** | Dungeon generator for traditional roguelikes | C, Rust |
+| **[RoguelikeFOV](https://github.com/ztry8d/RoguelikeFOV)** | Rust implementation of Adam’s FOV algorithm for roguelikes | Rust |
+| **[WorldBuilder](https://github.com/ztry8d/WorldBuilder)** | Lightweight heightmap generator for open-world game landscapes | Rust |
+| **[SoundTool](https://github.com/ztry8d/SoundTool)** | Simple and fast tool to normalize SFX and music for games | Python |
+| **[TinyPong](https://github.com/ztry8d/TinyPong)** | Tiny ping-pong game (~1000 bytes, ~50 LOC) for WASM-4 | C |
+
 ### 📫 Contact: [Twitter](https://x.com/ztry8d)
