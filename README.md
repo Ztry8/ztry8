@@ -12,11 +12,11 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 | Rust — ★★★★★ | Systems: Linux & macOS, CLI tools, OS fundamentals |
 | C — ★★★★★ | OS experience: Linux (10+ distros), macOS, Windows 7 → 11 |
 | GLSL — ★★★★☆ | Low-level: CPU, memory, threads, processes, signals |
-| C++ — ★★★★☆ | Graphics: OpenGL 3.3, DirectX 11 |
-| C# — ★★★★☆ | 2D rendering: SDL, SFML |
-| Python — ★★★☆☆ | Game engines: Unity, Godot |
-| HTML/CSS — ★★★☆☆ | Build tools: CMake, Make, Ninja, Cargo |
-| JavaScript — ★★★☆☆ | Currently learning: Cryptography & blockchain development |
+| C++ — ★★★★☆ | Embedded & Hardware: AVR, bare-metal, register-level |
+| C# — ★★★★☆ | Graphics: OpenGL 3.3, DirectX 11 |
+| Python — ★★★☆☆ | 2D rendering: SDL, SFML |
+| HTML/CSS — ★★★☆☆ | Game engines: Unity, Godot |
+| JavaScript — ★★★☆☆ | Build tools: CMake, Make, Ninja, Cargo |
 
 ---
 
