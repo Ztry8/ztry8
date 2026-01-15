@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aslan
 
-⚙️ System programmer | 🎮 Game developer | 
+⚙️ System programmer | 🎮 Game developer |    
 I love building games and tools from the ground up — no engines, no shortcuts.
 
 ---
