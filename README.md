@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Aslan
 
-⚙️ System programmer | 🎮 Game developer | [itch.io](https://ztry8.itch.io)  
+⚙️ System programmer | 🎮 Game developer | 
 I love building games and tools from the ground up — no engines, no shortcuts.
 
 ---
@@ -41,5 +41,3 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 | **[WorldBuilder](https://github.com/ztry8/WorldBuilder)** | Lightweight heightmap generator for open-world game landscapes | Rust |
 | **[SoundTool](https://github.com/ztry8/SoundTool)** | Simple and fast tool to normalize SFX and music for games | Python |
 | **[TinyPong](https://github.com/ztry8/TinyPong)** | Tiny ping-pong game (~1000 bytes, ~50 LOC) for WASM-4 | C |
-
-### 📫 Contact: [Twitter](https://x.com/ztry8d)
