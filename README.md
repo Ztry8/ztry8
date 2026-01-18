@@ -30,9 +30,8 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 ---
 
 ### 🚀 Flagship project
-**Cylium** - my own programming language built from scratch.  
+[**Cylium**](https://cylium.site) - my own programming language built from scratch.  
 Strong typing, imperative design, and a systems-first philosophy.    
-https://cylium.site  
 
 ---
 
