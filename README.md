@@ -35,7 +35,7 @@ Strong typing, imperative design, and a systems-first philosophy.
 
 ---
 
-### 🔧 Projects
+### 🔧 Utilities & Tools
 
 | Project | Description | Language(s) |
 |--------|-------------|-------------|
