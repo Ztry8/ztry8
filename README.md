@@ -39,7 +39,7 @@ Strong typing, imperative design, and a systems-first philosophy.
 
 | Project | Description | Language(s) |
 |--------|-------------|-------------|
-| **[Termlib](https://github.com/ztry8/Termlib)** | Lightweight Rust / C / C++ library with a single header for terminal graphics | Rust, C, C++ |
+| **[Termlib](https://github.com/ztry8/Termlib)** | Lightweight library with a single header for terminal graphics | Rust, C, C++ |
 | **[PlanetFinder](https://github.com/ztry8/PlanetFinder)** | A neural network that detects exoplanets from stellar light curves.  | Rust, Python |
 | **[LightByte](https://github.com/ztry8/LightByte)** | Utility to compress and encrypt game assets | Rust |
 | **[VecMate](https://github.com/ztry8/VecMate)** | Lightweight, zero-dependency, type-agnostic vector math library | Rust |
