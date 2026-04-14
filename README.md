@@ -38,7 +38,7 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 
 | Project | Description | Language(s) |
 |--------|-------------|-------------|
-| **[Cylium](https://github.com/ztry8/Cylium)** | My own programming language built from scratch. Strong typing, imperative design, and a systems-first philosophy. Rust, Python |
+| **[Cylium](https://github.com/ztry8/Cylium)** | My own programming language built from scratch. Strong typing, imperative design, and a systems-first philosophy. | Rust, Python |
 | **[Termlib](https://github.com/ztry8/Termlib)** | Lightweight library with a single header for terminal graphics | Rust, C, C++ |
 | **[PlanetFinder](https://github.com/ztry8/PlanetFinder)** | A neural network that detects exoplanets from stellar light curves.  | Rust, Python |
 | **[LightByte](https://github.com/ztry8/LightByte)** | Utility to compress and encrypt game assets | Rust |
