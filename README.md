@@ -7,16 +7,16 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 
 ### What I work with
 
-| Languages | Technologies & Skills |
+| Languages I often work with | Technologies & Skills |
 |-----------|----------------------|
-| Rust — ★★★★★ | Systems: Linux & macOS, CLI tools, OS fundamentals |
-| C — ★★★★★ | OS experience: Linux (10+ distros), macOS, Windows 7 → 11 |
-| GLSL — ★★★★☆ | Low-level: CPU, memory, threads, processes, signals |
-| C++ — ★★★★☆ | Embedded & Hardware: AVR, bare-metal, register-level |
-| C# — ★★★★☆ | Graphics: OpenGL 3.3, DirectX 11 |
+| Rust — ★★★★★ | OS experience: Linux (10+ distros), macOS, Windows 7 → 11 |
+| C — ★★★★★ | Embedded & Hardware: AVR, bare-metal, register-level |
+| GLSL — ★★★★☆ | Graphics: OpenGL 3.3, DirectX 11 |
+| JavaScript — ★★★★☆ | Game engines: Unity, Godot |
 | Python — ★★★☆☆ | 2D rendering: SDL, SFML |
-| HTML/CSS — ★★★☆☆ | Game engines: Unity, Godot |
-| JavaScript — ★★★☆☆ | Build tools: CMake, Make, Ninja, Cargo |
+| HTML/CSS — ★★★☆☆ | Build tools: CMake, Make, Ninja, Cargo |
+| C++ — ★★☆☆☆ | WebAssembly (WASM), modern web APIs |
+| C# — ★☆☆☆☆ | Backend deployment, Git workflows, Node.js ecosystem |
 
 ---
 
@@ -24,13 +24,8 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 - 🎨 Retro aesthetics & classic design  
 - 🎲 Randomness & procedural systems  
 - ⚡ Fast, simple, lightweight solutions  
-- 🕹 Favorite games: traditional roguelikes  
+- 🕹 Favorite games: classic RPG (like The Witcher & Oblivion)  
 - ✏️ Creative: Blender 3D modeling & pixel art  
-
----
-
-### 🚀 Currently working on
-[DailyScope](https://dailyscope.life) is an AI-powered news aggregation platform that collects headlines from authoritative international sources every day and turns them into comprehensive, balanced daily reports — in seconds.   
 
 ---
 
