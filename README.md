@@ -40,6 +40,7 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 | **[VecMate](https://github.com/ztry8/VecMate)** | Lightweight, zero-dependency, type-agnostic vector math library | Rust |
 | **[DungeonGen](https://github.com/ztry8/DungeonGen)** | Dungeon generator for traditional roguelikes | C, Rust |
 | **[RoguelikeFOV](https://github.com/ztry8/RoguelikeFOV)** | Rust implementation of Adam’s FOV algorithm for roguelikes | Rust |
+| **[SpriteForge](https://github.com/ztry8/SpriteForge)** | Simple and fast tool to render 8-directional sprites from 3D models | Python |
 | **[WorldBuilder](https://github.com/ztry8/WorldBuilder)** | Lightweight heightmap generator for open-world game landscapes | Rust |
 | **[SoundTool](https://github.com/ztry8/SoundTool)** | Simple and fast tool to normalize SFX and music for games | Python |
 | **[TinyPong](https://github.com/ztry8/TinyPong)** | Tiny ping-pong game (~1000 bytes, ~50 LOC) for WASM-4 | C |
