@@ -37,6 +37,7 @@ I love building games and tools from the ground up — no engines, no shortcuts.
 | **[Termlib](https://github.com/ztry8/Termlib)** | Lightweight library with a single header for terminal graphics | Rust, C, C++ |
 | **[PlanetFinder](https://github.com/ztry8/PlanetFinder)** | A neural network that detects exoplanets from stellar light curves.  | Rust, Python |
 | **[LightByte](https://github.com/ztry8/LightByte)** | Utility to compress and encrypt game assets | Rust |
+| **[ZipBeat](https://github.com/ztry8/ZipBeat)** | Browser-based grid sequencer and audio generator built on the Web Audio API  | JS, HTML |
 | **[VecMate](https://github.com/ztry8/VecMate)** | Lightweight, zero-dependency, type-agnostic vector math library | Rust |
 | **[DungeonGen](https://github.com/ztry8/DungeonGen)** | Dungeon generator for traditional roguelikes | C, Rust |
 | **[RoguelikeFOV](https://github.com/ztry8/RoguelikeFOV)** | Rust implementation of Adam’s FOV algorithm for roguelikes | Rust |
